@@ -32,5 +32,10 @@ Output Options: Save server responses to files for further analysis.
 ```
 
 
-FRAMEWORK/CLIENT SIDE BY SIDE:
 ![image](https://github.com/vVv-Keys/HTTP2-CLIENT/assets/49612041/c79579bb-6cb7-43ee-8569-12f5a70a947f)
+
+
+# Acknowledgements
+Special thanks to the contributors and open-source projects that made this framework possible.
+
+Inspired by: [https://github.com/secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient)
