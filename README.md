@@ -39,3 +39,7 @@ Output Options: Save server responses to files for further analysis.
 Special thanks to the contributors and open-source projects that made this framework possible.
 
 Inspired by: [https://github.com/secengjeff/rapidresetclient](https://github.com/secengjeff/rapidresetclient)
+
+This tool was designed for my own testing purposes. No USAGE information will be submitted at this time. 
+
+Be sure to have the proper environment and dependencies installed from the .toml to use the script correctly!
