@@ -1,0 +1,13 @@
+[package]
+name = "http2-client"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+hyper = "0.14"
+tokio = { version = "1", features = ["full"] }
+tracing = "0.1"
+tracing-subscriber = "0.2"
+structopt = "0.3"
+serde = { version = "1.0", features = ["derive"] }
+dotenv = "0.15"
