@@ -12,7 +12,7 @@
 ░  ░      ░  ░░ ░           ░  
               ░ ░ 
 ```
-
+```This product and source is not complete and needs much work, feel free to take and build, finish etc. Once the REALEASE hits will be the official launch, please leave a * if you fork <```
 # HTTP2-CLIENT
 
 
